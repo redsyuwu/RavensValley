@@ -3,7 +3,9 @@ body {
     font-size: medium;
     background-color: antiquewhite;
     text-align: center;
-    margin: 5% 10% 10% 10%;
+    margin: 2rem auto;
+    max-width: 800px;
+    padding: 1rem auto;
     border:dotted    5px;
     font: bold;
 }
@@ -13,8 +15,10 @@ h1{
     font-weight: bold;
 }
 
+
 html {
     background-color:burlywood;
+    background-image: url(../imagenes/fondo.png);
 }
 
     img {
