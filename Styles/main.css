@@ -5,9 +5,9 @@ body {
     text-align: center;
     margin: 2rem auto;
     max-width: 800px;
-    padding: 1rem auto;
-    border:dotted    5px;
-    font: bold;
+    padding: 1rem;
+    border:dotted 5px;
+    font-weight: bold;
 }
 
 h1{
